@@ -1,43 +1,81 @@
-<h1 align="center">Hello ! I'm Sufyan Ali</h1>
+<h1 align="center">👋 Hello! I'm Sufyan Ali</h1>
 
-<h2 align="left">Skillset</h2>
+<p align="center">
+  <a href="https://github.com/Alixoxox">
+    <img src="https://komarev.com/ghpvc/?username=Alixoxox&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+  <a href="#connect-with-me">
+    <img src="https://img.shields.io/badge/Let's%20Connect-blue?logo=github&logoColor=white" alt="connect badge"/>
+  </a>
+</p>
 
-<h3 align="left">Programming Languages:</h3>
 
-<p align='left' > <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg" width='40' height='40' title='c'/> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/>  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width='40' height='40' title='python'/>  </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alixoxox&show_icons=true&locale=en&layout=compact" />
+## 🎯 About Me
 
-<h3 align="left">Frontend Development:</h3>
+- 🔭 I’m a 2nd-year Computer Information Systems Engineering student at **NED University**, Karachi.  
+- 💻 Currently mastering **Python**; next up — **Web Development** to get freelance-ready.  
+- 🌱 I love coding, tackling new projects, and learning every day.  
+- ☕ I fuel my coding sessions with a daily cup of chai.  
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width='40' height='40' title='reactjs'/> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/bootstrap.svg" width='40' height='40' title='bootstrap'/> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width='40' height='40' title='html'/> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/css.svg" width='40' height='40' title='css'/> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/tailwind.svg" width='40' height='40' title='tailwind'/> </p>
+---
 
-<h3 align="left">Backend Development:</h3>
+## 🛠️ Tech Stack
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width='40' height='40' title='nodejs'/> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/express.svg" width='40' height='40' title='express'/> </p>
+<details>
+<summary><strong>Languages & Frameworks</strong></summary>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg"   alt="C"      width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" alt="JS"     width="40" height="40"/>
+</p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg"     alt="HTML5"    width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/css.svg"      alt="CSS3"     width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg"  alt="React"    width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/tailwind.svg" alt="Tailwind" width="40" height="40"/>
+</p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg"  alt="Node.js"  width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/express.svg" alt="Express"  width="40" height="40"/>
+</p>
+</details>
 
-<h3 align="left">Database Management:</h3>
+<details>
+<summary><strong>Databases & Tools</strong></summary>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg"  alt="MySQL"    width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg"    alt="Postman"  width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/matlab.svg"     alt="MATLAB"   width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg"        alt="Git"      width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg"      alt="Linux"    width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/figma.svg"    alt="Figma"    width="40" height="40"/>
+</p>
+</details>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg" width='40' height='40' title='mysql'/> </p>
+---
 
-<h3 align="left">Softwares:</h3>
+## 📊 GitHub Stats
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/figma.svg" width='40' height='40' title='figma'/> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/matlab.svg" width='40' height='40' title='matlab'/> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg" width='40' height='40' title='postman'/> </p>
+<p align="center">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alixoxox&layout=compact&theme=radical"/> 
+  
+  <img alt="Stats"     src="https://github-readme-stats.vercel.app/api?username=Alixoxox&show_icons=true&theme=radical"/>  
+</p>
 
-<h3 align="left">Others:</h3>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='git'/> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='linux'/> </p>
+<p align="center">
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Alixoxox&theme=radical&row=2&column=3"/>  
+  
+  <img alt="Streak"   src="https://github-readme-streak-stats.herokuapp.com/?user=Alixoxox&theme=radical"/>    
+</p>
 
-<br><br>
+---
 
-<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Alixoxox" />
+## 🔗 Connect With Me <a name="connect-with-me"></a>
 
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Alixoxox&show_icons=true&locale=en" />
-
-<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Alixoxox&" />
-
-<img align="left" src="https://komarev.com/ghpvc/?username=Alixoxox&label=Profile%20views&color=0e75b6&style=flat" />
-
-<h2 align="left">Connect with Me</h2>
-
-<p align='left'><a href="https://github.com/Alixoxox"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/> </a> <a href="https://www.linkedin.com/in/sufyan-ali-591944217?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5pmuRhPlT%2FS%2BEvTI5HT%2Bbw%3D%3D"> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/> </a></p>
+<p align="left">
+  <a href="https://github.com/Alixoxox"     target="_blank" rel="noopener">  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg"    alt="GitHub"  width="40" height="40"/> </a>  
+  <a href="https://www.linkedin.com/in/sufyan-ali-591944217" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>  </a>  
+   <a href="mailto:sufyanali05.work@example.com"    target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
