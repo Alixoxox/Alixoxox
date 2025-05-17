@@ -79,6 +79,5 @@
   </a>  
   <a href="https://www.linkedin.com/in/sufyan-ali-591944217" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>  </a>   
-  
    <a href="mailto:sufyanali05.work@gmail.com"    target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
