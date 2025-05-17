@@ -1,7 +1,5 @@
 <h1 align="center">Hello ! I'm Sufyan Ali</h1>
 
-<h2 align="left">Some Facts About Me</h2>
-
 <h2 align="left">Skillset</h2>
 
 <h3 align="left">Programming Languages:</h3>
@@ -30,7 +28,7 @@
 
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='git'/> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='linux'/> </p>
 
-<br><hr><br>
+<br><br>
 
 <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Alixoxox" />
 
@@ -42,4 +40,4 @@
 
 <h2 align="left">Connect with Me</h2>
 
-<p align='left'><a href="https://github.com/Alixoxox"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/></a><a href="https://www.linkedin.com/in/sufyan-ali-591944217?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5pmuRhPlT%2FS%2BEvTI5HT%2Bbw%3D%3D"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a></p>
+<p align='left'><a href="https://github.com/Alixoxox"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/> </a> <a href="https://www.linkedin.com/in/sufyan-ali-591944217?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5pmuRhPlT%2FS%2BEvTI5HT%2Bbw%3D%3D"> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/> </a></p>
