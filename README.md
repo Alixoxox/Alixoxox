@@ -14,7 +14,7 @@
 ## 🎯 About Me
 
 - 🔭 I’m a 2nd-year Computer Information Systems Engineering student at **NED University**, Karachi.  
-- 💻 Currently mastering **Python**; next up — **Web Development** to get freelance-ready.  
+- 💻 Currently mastering **Backend Development**  
 - 🌱 I love coding, tackling new projects, and learning every day.  
 - ☕ I fuel my coding sessions with a daily cup of chai.  
 
