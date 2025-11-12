@@ -28,6 +28,8 @@
   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg"         alt="C"        width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg"   alt="Python"  width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" alt="JS"   width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg" alt="Java"   width="40" height="40"/>
+
   <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" alt="Assembly" width="40" height="40"/>
 </p>
 <p align="left">
@@ -39,6 +41,8 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg"  alt="Node.js"  width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/express.svg" alt="Express"  width="40" height="40"/>
+<img src="https://www.svgrepo.com/download/333604/spring-boot.svg" alt="Spring Boot" width="40" height="40"/>
+
 </p>
 </details>
 
@@ -46,11 +50,16 @@
 <summary><strong>Databases & Tools</strong></summary>
 <p align="left">
   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg"  alt="MySQL"    width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/postgresql.svg"  alt="PostgreSql"    width="40" height="40"/>
+      <img src="https://www.svgrepo.com/download/303232/mongodb-logo.svg"  alt="Mongo"    width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/redis.svg"  alt="Redis"    width="40" height="40"/>
+      <img src="https://tse2.mm.bing.net/th/id/OIP.Op4kDY4K4d126AL8ohW4awHaEK?cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3"  alt="Docker"    width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg"    alt="Postman"  width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/matlab.svg"     alt="MATLAB"   width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg"        alt="Git"      width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg"      alt="Linux"    width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/figma.svg"    alt="Figma"    width="40" height="40"/>
+
 </p>
 </details>
 
