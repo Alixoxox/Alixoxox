@@ -85,5 +85,5 @@
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Alixoxox)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sufyan-ali-591944217/)
 [![Gmail](https://img.shields.io/badge/-sufyanali05.work@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sufyanali05.work@gmail.com)
