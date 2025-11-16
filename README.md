@@ -1,93 +1,89 @@
-<h1 align="center">👋 Hello! I'm Sufyan Ali</h1>
+<h1 align="center">Hi 👋, I'm Sufyan Ali</h1>
+<h3 align="center">Computer & Information Systems Engineering Student</h3>
 
 <p align="center">
-  <a href="https://github.com/Alixoxox">
-    <img src="https://komarev.com/ghpvc/?username=Alixoxox&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Alixoxox&label=Profile%20Visitors&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Backend+Developer+%7C+Spring+Boot+%26+Express.js;AI%2C+ML+Enthusiast;Building+Scalable+Systems;" />
+</p>
+
+---
+
+## 🧠 About Me
+
+🎓 CIS Engineering student at **NED University**  
+⚙️ I specialize in **Backend Engineering**, **API Design**, **Distributed Systems**, and **Scalable Architectures**  
+🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **System Design**  
+🔥 Solved **140+ LeetCode problems**  
+💡 Interests: **Databases**, **Operating Systems**, **Computer Networks**
+
+---
+
+## 🧰 Tech Stack
+
+### 🖥️ Backend & Databases
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+
+### 📊 AI / ML
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
+![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn)
+
+### 🧩 DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![MIPS Assembly](https://img.shields.io/badge/-MIPS-008000?style=flat)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alixoxox&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alixoxox&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alixoxox&theme=gruvbox&column=7&margin-w=10" />
+</p>
+
+---
+
+
+## 💻 LeetCode Profile
+
+<p align="center">
+  <a href="https://leetcode.com/u/Alixoxox/">
+    <img src="https://leetcard.jacoblin.cool/Alixoxox?ext=contest&theme=dark" />
   </a>
-  <a href="#connect-with-me">
-    <img src="https://img.shields.io/badge/Let's%20Connect-blue?logo=github&logoColor=white" alt="connect badge"/>
-  </a>
-</p>
-
-
-
-## 🎯 About Me
-
-- 🔭 I’m a 3rd-year Computer Information Systems Engineering student at **NED University**, Karachi.  
-- 💻 Currently mastering **Backend Development**  
-- 🌱 I love coding, tackling new projects, and learning every day.  
-- ☕ I fuel my coding sessions with a daily cup of chai.  
-
----
-
-## 🛠️ Tech Stack
-
-<details>
-<summary><strong>Languages & Frameworks</strong></summary>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg"         alt="C"        width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg"   alt="Python"  width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" alt="JS"   width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg" alt="Java"   width="40" height="40"/>
-
-  <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" alt="Assembly" width="40" height="40"/>
-</p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg"     alt="HTML5"    width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/css.svg"      alt="CSS3"     width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg"  alt="React"    width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/tailwind.svg" alt="Tailwind" width="40" height="40"/>
-</p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg"  alt="Node.js"  width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/express.svg" alt="Express"  width="40" height="40"/>
-<img src="https://www.svgrepo.com/download/333604/spring-boot.svg" alt="Spring Boot" width="40" height="40"/>
-
-</p>
-</details>
-
-<details>
-<summary><strong>Databases & Tools</strong></summary>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg"  alt="MySQL"    width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/postgresql.svg"  alt="PostgreSql"    width="40" height="40"/>
-      <img src="https://www.svgrepo.com/download/303232/mongodb-logo.svg"  alt="Mongo"    width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/redis.svg"  alt="Redis"    width="40" height="40"/>
-      <img src="https://tse2.mm.bing.net/th/id/OIP.Op4kDY4K4d126AL8ohW4awHaEK?cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3"  alt="Docker"    width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg"    alt="Postman"  width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/matlab.svg"     alt="MATLAB"   width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg"        alt="Git"      width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg"      alt="Linux"    width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/figma.svg"    alt="Figma"    width="40" height="40"/>
-
-</p>
-</details>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alixoxox&layout=compact&theme=radical"/> 
-  
-  <img alt="Stats"     src="https://github-readme-stats.vercel.app/api?username=Alixoxox&show_icons=true&theme=radical"/>  
-</p>
-
-
-<p align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Alixoxox&theme=radical&row=2&column=3"/>  
-  
-  <img alt="Streak"   src="https://github-readme-streak-stats.herokuapp.com/?user=Alixoxox&theme=radical"/>    
 </p>
 
 ---
 
-## 🔗 Connect With Me <a name="connect-with-me"></a>
+## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://github.com/Alixoxox"     target="_blank" rel="noopener">  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg"    alt="GitHub"  width="40" height="40"/>  
-  </a>  
-  <a href="https://www.linkedin.com/in/sufyan-ali-591944217" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>  </a>   
-   <a href="mailto:sufyanali05.work@gmail.com"    target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Alixoxox)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)]()
+[![Gmail](https://img.shields.io/badge/-sufyanali05.work@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sufyanali05.work@gmail.com)
