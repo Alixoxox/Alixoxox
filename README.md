@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFsZjJpcnljMzk3cmxiN2tjYWc0ajcyM3ZyN3FmZTVtMzFyZjIwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
 <h1 align="center">Hi 👋, I'm Sufyan Ali</h1>
 <h3 align="center">Computer & Information Systems Engineering Student</h3>
 
@@ -13,7 +16,7 @@
 
 ## 🧠 About Me
 
-🎓 CIS Engineering student at **NED University**  
+🎓 Computer & Information Systems Engineering student at **NED University**  
 ⚙️ I specialize in **Backend Engineering**, **API Design**, **Distributed Systems**, and **Scalable Architectures**  
 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **System Design**  
 🔥 Solved **140+ LeetCode problems**  
@@ -52,35 +55,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![MIPS Assembly](https://img.shields.io/badge/-MIPS-008000?style=flat&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alixoxox&show_icons=true&theme=tokyonight" height="180px" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alixoxox&layout=compact&theme=tokyonight" height="180px" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alixoxox&theme=gruvbox&column=7&margin-w=10" />
-</p>
-
----
-
-
-## 💻 LeetCode Profile
-
-<p align="center">
-  <a href="https://leetcode.com/u/Alixoxox/">
-    <img src="https://leetcard.jacoblin.cool/Alixoxox?ext=contest&theme=dark" />
-  </a>
-</p>
 
 ---
 
