@@ -19,7 +19,7 @@
 🎓 Computer & Information Systems Engineering student at **NED University**  
 ⚙️ I specialize in **Backend Engineering**, **API Design**, **Distributed Systems**, and **Scalable Architectures**  
 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **System Design**  
-🔥 Solved **140+ LeetCode problems**  
+🔥 Solved **150+ LeetCode problems**  
 💡 Interests: **Databases**, **Operating Systems**, **Computer Networks**
 
 ---
